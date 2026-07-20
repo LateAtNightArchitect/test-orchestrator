@@ -1,0 +1,7 @@
+# Subprojects: each of these is (or will be) its own separate Git
+# repository, so they are intentionally excluded from this repo.
+/test-env-builder/
+/test-evaluator/
+/test-planner/
+/test-recorder/
+/test-runner/
